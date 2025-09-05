@@ -14,6 +14,7 @@ func main() {
 
 			}
 		}
+		fmt.Println(slice)
 		if count == 0 {
 			break
 		}
